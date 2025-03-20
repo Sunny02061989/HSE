@@ -1,9 +1,10 @@
-<yml_catalog date="2025-03-03 12:10">
+<yml_catalog date="2025-03-19 12:10">
 <shop>
 <name>НИУ ВШЭ</name>
 <company>Высшая школа бизнеса НИУ ВШЭ</company>
 <url>https://marketing.hse.ru</url>
 <email>opendpo@hse.ru</email>
+<picture>https://raw.githubusercontent.com/Sunny02061989/HSE/main/GlBuxMVbe-Q.jpg</picture>
 <description>Профессиональная переподготовка, обучение и повышение квалификации по направлению маркетинг</description>
 <currencies>
 <currency id="RUR" rate="1"/>
@@ -13,61 +14,31 @@
 <name>Открытые программы и курсы по направлению маркетинг</name>
 <url>https://marketing.hse.ru</url>
 </set>
+
 <set id="s2">
-<name>ПП Управление маркетингом</name>
-<url>https://marketing.hse.ru/master-marketing/</url>
-</set>
-<set id="s3">
 <name>ПК Сквозная аналитика в маркетинге (онлайн)</name>
 <url>https://marketing.hse.ru/skvoznaya-analitika/</url>
 </set>
-<set id="s4">
-<name>ПП Управление продуктом: развитие продукта и продакт-маркетинг</name>
-<url>https://marketing.hse.ru/product-management/</url>
-</set>
-<set id="s5">
+
+<set id="s3">
 <name>ПК Развитие продукта и управление портфелем (онлайн)</name>
 <url>https://marketing.hse.ru/product-development/</url>
 </set>
-<set id="s6">
+<set id="s4">
 <name>ПК Комплекс маркетинга в компании (онлайн)</name>
 <url>https://marketing.hse.ru/complexpage/</url>
 </set>
-<set id="s7">
+<set id="s5">
 <name>ПП Бренд-менеджмент</name>
 <url>https://marketing.hse.ru/brand/</url>
 </set>
-<set id="s8">
+<set id="s6">
 <name>ПК Маркетинг бренда: инструменты и практика (онлайн)</name>
 <url>https://marketing.hse.ru/bm-dot/</url>
 </set>
 </sets>
 <offers>
-<offer id="upravlenie-marketingom">
-<name>ПП Управление маркетингом</name>
-<url>https://marketing.hse.ru/master-marketing/</url>
-<categoryId>599</categoryId>
 
-<price>370000</price>
-<currencyId>RUR</currencyId>
-
-<param name="Оплата в рассрочку" unit="месяц">Возможна оплата в три этапа</param>
-<param name="Ближайшая дата">2025-03-18</param>
-<param name="Продолжительность" unit="месяц">8</param>
-<param name="План" order="1" unit="Unit 1">Современные модели маркетинга</param>
-<param name="План" order="2" unit="Unit 2">Маркетинговые исследования</param>
-<param name="План" order="3" unit="Unit 3">Анализ и оценка факторов рынка</param>
-<param name="План" order="4" unit="Unit 4">Анализ и оценка внутренних факторов и возможностей</param>
-<param name="План" order="5" unit="Unit 5">Маркетинговая стратегия компании</param>
-<param name="План" order="6" unit="Unit 6">Цифровая стратегия компании и современные маркетинговые технологии (Мартех)</param>
-<param name="План" order="7" unit="Unit 7">Итоговая аттестация</param>
-
-<param name="Формат обучения">Очно-заочный</param>
-<param name="Сложность">Для опытных</param>
-<param name="Тип обучения">ПП</param>
-<param name="Результат обучения">Диплом</param>
-<description>Формирование компетенций современного маркетолога для решения задач в высокотехнологичном и быстро меняющемся мире. Это не просто курсы управления маркетингом, а полноценная профессиональная переподготовка по маркетингу!</description>
-</offer>
 <offer id="Skvoznaya-analitika">
 <name>ПК Сквозная аналитика в маркетинге (онлайн)</name>
 <url>https://marketing.hse.ru/skvoznaya-analitika/</url>
@@ -92,36 +63,14 @@
 <param name="План" order="11" unit="Unit 11">Person-based аналитика. Работа с когортами, учет длинного цикла сделки и повторных продаж</param>
 <param name="План" order="12" unit="Unit 12">Как должна быть устроена современная аналитическая компетенция в компании</param>
 <param name="План" order="13" unit="Unit 13">Защита выпускной работы – построение системы сквозной аналитики</param>
-<param name="Формат обучения">Онлайн</param>
+<param name="Формат обучения">С преподавателем</param>
 <param name="Сложность">Для опытных</param>
-<param name="Тип обучения">ПК</param>
+<param name="Тип обучения">Курс</param>
 <param name="Результат обучения">Удостоверение</param>
 <description>Обучение сквозной аналитике - учим, как считать маркетинг. Даем фундаментальные знания и практические навыки повышения эффективности маркетинговых активностей на основе данных</description>
 </offer>
 
-<offer id="Upravlenie-produktom">
-<name>ПП Управление продуктом: развитие продукта и продакт-маркетинг</name>
-<url>https://marketing.hse.ru/product-management/</url>
-<categoryId>203</categoryId>
 
-<price>350000</price>
-<currencyId>RUR</currencyId>
-
-<param name="Оплата в рассрочку" unit="месяц">Возможна оплата в три этапа</param>
-<param name="Ближайшая дата">2025-03-19</param>
-<param name="Продолжительность" unit="месяц">8</param>
-<param name="План" order="1" unit="Unit 1">Развитие продукта и управление портфелем</param>
-<param name="План" order="2" unit="Unit 2">Формирование уникального торгового предложения</param>
-<param name="План" order="3" unit="Unit 3">Продакт-маркетинг и генерация спроса</param>
-<param name="План" order="4" unit="Unit 4">Бизнес модель и стратегический план развития продукта/портфеля продуктов</param>
-<param name="План" order="5" unit="Unit 5">Итоговая аттестация</param>
-
-<param name="Формат обучения">Очный</param>
-<param name="Сложность">Для опытных</param>
-<param name="Тип обучения">ПП</param>
-<param name="Результат обучения">Диплом</param>
-<description>Формирование востребованных компетенций продакт-менеджера для профессионального управления продуктом в условиях быстро меняющегося рынка</description>
-</offer>
 <offer id="razvitie-produkta">
 <name>ПК Развитие продукта и управление портфелем (онлайн)</name>
 <url>https://marketing.hse.ru/product-development/</url>
@@ -138,9 +87,9 @@
 <param name="План" order="3" unit="Unit 3">Ассортиментная политика и анализ показателей бизнеса</param>
 <param name="План" order="4" unit="Unit 4">Итоговая аттестация</param>
 
-<param name="Формат обучения">Онлайн</param>
+<param name="Формат обучения">С преподавателем</param>
 <param name="Сложность">Для опытных</param>
-<param name="Тип обучения">ПК</param>
+<param name="Тип обучения">Курс</param>
 <param name="Результат обучения">Удостоверение</param>
 <description>Программа позволяет освоить востребованные рынком навыки в области создания и развития продукта</description>
 </offer>
@@ -165,38 +114,33 @@
 <param name="План" order="7" unit="Unit 7">Интегрированные маркетинговые коммуникации</param>
 <param name="План" order="8" unit="Unit 8">Итоговая аттестация</param>
 
-<param name="Формат обучения">Онлайн</param>
+<param name="Формат обучения">С преподавателем</param>
 <param name="Сложность">Для опытных</param>
-<param name="Тип обучения">ПК</param>
+<param name="Тип обучения">Курс</param>
 <param name="Результат обучения">Удостоверение</param>
 <description>Разработка маркетингового комплекса, отвечающего вызовам новой реальности, для своей компании/продукта</description>
 </offer>
 
-<offer id="Brend-menedzhment">
-<name>ПП Бренд-менеджмент</name>
-<url>https://marketing.hse.ru/brand/</url>
+<offer id="Prodakt-marketing">
+<name>ПК Продакт-маркетинг и генерация спроса</name>
+<url>https://marketing.hse.ru/product-marketing/</url>
 <categoryId>511</categoryId>
 
-<price>350000</price>
+<price>140000</price>
 <currencyId>RUR</currencyId>
 
 <param name="Оплата в рассрочку" unit="месяц">Возможна оплата в три этапа</param>
-<param name="Ближайшая дата">2025-04-16</param>
-<param name="Продолжительность" unit="месяц">8</param>
-<param name="План" order="1" unit="Unit 1">Введение в программу "Бренд-Менеджмент"</param>
-<param name="План" order="2" unit="Unit 2">Знание рынка, потребителя / клиента конкурентов</param>
-<param name="План" order="3" unit="Unit 3">Знание продукта: анализ, управление и инновации </param>
-<param name="План" order="4" unit="Unit 4">Знание бренд метрик</param>
-<param name="План" order="5" unit="Unit 5">Эффективная защита идей и навыки презентаций</param>
-<param name="План" order="6" unit="Unit 6">Разработка маркетинговой/бренд стратегии</param>
-<param name="План" order="7" unit="Unit 7">Разработка бренда и построение его капитала</param>
-<param name="План" order="8" unit="Unit 8">Реализация бренд стратегии</param>
-<param name="План" order="9" unit="Unit 9">Дипломный проект</param>
-<param name="Формат обучения">Офлайн</param>
+<param name="Ближайшая дата">2025-09-01</param>
+<param name="Продолжительность" unit="месяц">3</param>
+<param name="План" order="1" unit="Unit 1">Продакт-маркетинг: продукт и понимание потребителя</param>
+<param name="План" order="2" unit="Unit 2">Управление продуктом</param>
+<param name="План" order="3" unit="Unit 3">Генерация спроса на продукт(ы) </param>
+<param name="План" order="4" unit="Unit 4">Итоговая аттестация</param>
+<param name="Формат обучения">С преподавателем</param>
 <param name="Сложность">Для опытных</param>
-<param name="Тип обучения">ПП</param>
-<param name="Результат обучения">Диплом</param>
-<description>Курс по обучению на бренд-менеджера в Москве: уникальная программа для подготовки бренд-менеджеров (brand manager) к работе в новых реалиях</description>
+<param name="Тип обучения">Курс</param>
+<param name="Результат обучения">Удостоверение</param>
+<description>Практическая программа для специалистов, которые хотят научиться выводить на рынок продукты, выстраивать коммуникации с потребителем и эффективную систему продаж в современных рыночных условиях</description>
 </offer>
 
 <offer id="Marketing-brenda">
@@ -217,12 +161,16 @@
 <param name="План" order="6" unit="Unit 6">Итоговая аттестация</param>
 
 
-<param name="Формат обучения">Онлайн</param>
+<param name="Формат обучения">С преподавателем</param>
 <param name="Сложность">Для опытных</param>
-<param name="Тип обучения">ПК</param>
+<param name="Тип обучения">Курс</param>
 <param name="Результат обучения">Удостоверение</param>
 <description>Профессия "Бренд-менеджер": программа обучает методологии бренд-ориентированного маркетинга и предлагает пошаговый алгоритм работы с брендом – разработка и вывод на рынок нового бренда, правовая охрана, позиционирование и идентичность, коммуникационная стратегия на базе современных и эффективных медиа- и онлайн-каналов</description>
 </offer>
+
+</offers>
+</shop>
+</yml_catalog>
 
 </offers>
 </shop>
