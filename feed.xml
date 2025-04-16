@@ -1,4 +1,4 @@
-<yml_catalog date="2025-03-03 12:10">
+<yml_catalog date="2025-04-10 12:10">
 <shop>
 <name>НИУ ВШЭ</name>
 <company>Высшая школа бизнеса НИУ ВШЭ</company>
@@ -29,8 +29,8 @@
 <url>https://marketing.hse.ru/complexpage/</url>
 </set>
 <set id="s5">
-<name>ПП Бренд-менеджмент</name>
-<url>https://marketing.hse.ru/brand/</url>
+<name>ПК Продакт-маркетинг и генерация спроса</name>
+<url>https://marketing.hse.ru/bm-dot/</url>
 </set>
 <set id="s6">
 <name>ПК Маркетинг бренда: инструменты и практика (онлайн)</name>
@@ -47,8 +47,8 @@
 <price>120000</price>
 <currencyId>RUR</currencyId>
 
-<param name="Оплата в рассрочку" unit="месяц">Возможна оплата в три этапа</param>
-<param name="Ближайшая дата">2025-03-19</param>
+<param name="Оплата в рассрочку" unit="месяц">3</param>
+<param name="Ближайшая дата">2025-04-16</param>
 <param name="Продолжительность" unit="месяц">2</param>
 <param name="План" order="1" unit="Unit 1">Роль сквозной аналитики в управлении маркетингом, продажами и в бизнесе в целом</param>
 <param name="План" order="2" unit="Unit 2">Веб-аналитика. Объект анализа, основные подходы и инструменты</param>
@@ -71,7 +71,7 @@
 </offer>
 
 
-<offer id="razvitie-produkta">
+<offer id="razvitieprodukta">
 <name>ПК Развитие продукта и управление портфелем (онлайн)</name>
 <url>https://marketing.hse.ru/product-development/</url>
 <categoryId>203</categoryId>
@@ -79,7 +79,7 @@
 <price>140000</price>
 <currencyId>RUR</currencyId>
 
-<param name="Оплата в рассрочку" unit="месяц">Возможна оплата в три этапа</param>
+<param name="Оплата в рассрочку" unit="месяц">3</param>
 <param name="Ближайшая дата">2025-04-09</param>
 <param name="Продолжительность" unit="месяц">3</param>
 <param name="План" order="1" unit="Unit 1">Продакт - менеджмент в цифровой экономике</param>
@@ -94,7 +94,7 @@
 <description>Программа позволяет освоить востребованные рынком навыки в области создания и развития продукта</description>
 </offer>
 
-<offer id="Kompleks-marketinga">
+<offer id="Kompleksmarketinga">
 <name>ПК Комплекс маркетинга в компании (онлайн)</name>
 <url>https://marketing.hse.ru/complexpage/</url>
 <categoryId>599</categoryId>
@@ -102,7 +102,7 @@
 <price>90000</price>
 <currencyId>RUR</currencyId>
 
-<param name="Оплата в рассрочку" unit="месяц">Возможна оплата в три этапа</param>
+<param name="Оплата в рассрочку" unit="месяц">3</param>
 <param name="Ближайшая дата">2025-04-14</param>
 <param name="Продолжительность" unit="месяц">3</param>
 <param name="План" order="1" unit="Unit 1">Современные маркетинговые стратегии</param>
@@ -121,7 +121,7 @@
 <description>Разработка маркетингового комплекса, отвечающего вызовам новой реальности, для своей компании/продукта</description>
 </offer>
 
-<offer id="Prodakt-marketing">
+<offer id="Prodaktmarketing">
 <name>ПК Продакт-маркетинг и генерация спроса</name>
 <url>https://marketing.hse.ru/product-marketing/</url>
 <categoryId>511</categoryId>
@@ -129,7 +129,7 @@
 <price>140000</price>
 <currencyId>RUR</currencyId>
 
-<param name="Оплата в рассрочку" unit="месяц">Возможна оплата в три этапа</param>
+<param name="Оплата в рассрочку" unit="месяц">3</param>
 <param name="Ближайшая дата">2025-09-01</param>
 <param name="Продолжительность" unit="месяц">3</param>
 <param name="План" order="1" unit="Unit 1">Продакт-маркетинг: продукт и понимание потребителя</param>
@@ -143,14 +143,14 @@
 <description>Практическая программа для специалистов, которые хотят научиться выводить на рынок продукты, выстраивать коммуникации с потребителем и эффективную систему продаж в современных рыночных условиях</description>
 </offer>
 
-<offer id="Marketing-brenda">
+<offer id="Marketingbrenda">
 <name>ПК Маркетинг бренда: инструменты и практика (онлайн)</name>
 <url>https://marketing.hse.ru/bm-dot/</url>
 <categoryId>511</categoryId>
 <price>120000</price>
 <currencyId>RUR</currencyId>
 
-<param name="Оплата в рассрочку" unit="месяц">Возможна оплата в три этапа</param>
+<param name="Оплата в рассрочку" unit="месяц">3</param>
 <param name="Ближайшая дата">2025-05-12</param>
 <param name="Продолжительность" unit="месяц">4</param>
 <param name="План" order="1" unit="Unit 1">Современные маркетинговые концепции</param>
