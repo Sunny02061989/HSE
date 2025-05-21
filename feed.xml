@@ -1,4 +1,4 @@
-<yml_catalog date="2025-04-10 12:10">
+<yml_catalog date="2025-05-20 12:10">
 <shop>
 <name>НИУ ВШЭ</name>
 <company>Высшая школа бизнеса НИУ ВШЭ</company>
@@ -48,7 +48,7 @@
 <currencyId>RUR</currencyId>
 
 <param name="Оплата в рассрочку" unit="месяц">3</param>
-<param name="Ближайшая дата">2025-04-16</param>
+<param name="Ближайшая дата">2025-06-11</param>
 <param name="Продолжительность" unit="месяц">2</param>
 <param name="План" order="1" unit="Модуль 1">Роль сквозной аналитики в управлении маркетингом, продажами и в бизнесе в целом</param>
 <param name="План" order="2" unit="Модуль 2">Веб-аналитика. Объект анализа, основные подходы и инструменты</param>
@@ -76,11 +76,11 @@
 <url>https://marketing.hse.ru/product-development/</url>
 <categoryId>203</categoryId>
 
-<price>140000</price>
+<price>150000</price>
 <currencyId>RUR</currencyId>
 
 <param name="Оплата в рассрочку" unit="месяц">3</param>
-<param name="Ближайшая дата">2025-04-09</param>
+<param name="Ближайшая дата">2025-11-05</param>
 <param name="Продолжительность" unit="месяц">3</param>
 <param name="План" order="1" unit="Модуль 1">Продакт - менеджмент в цифровой экономике</param>
 <param name="План" order="2" unit="Модуль 2">Управление жизненным циклом продукта</param>
@@ -99,11 +99,11 @@
 <url>https://marketing.hse.ru/complexpage/</url>
 <categoryId>599</categoryId>
 
-<price>90000</price>
+<price>100000</price>
 <currencyId>RUR</currencyId>
 
 <param name="Оплата в рассрочку" unit="месяц">3</param>
-<param name="Ближайшая дата">2025-04-14</param>
+<param name="Ближайшая дата">2025-11-10</param>
 <param name="Продолжительность" unit="месяц">3</param>
 <param name="План" order="1" unit="Модуль 1">Современные маркетинговые стратегии</param>
 <param name="План" order="2" unit="Модуль 2">Маркетинговые исследования и анализ рынков</param>
@@ -151,7 +151,7 @@
 <currencyId>RUR</currencyId>
 
 <param name="Оплата в рассрочку" unit="месяц">3</param>
-<param name="Ближайшая дата">2025-05-12</param>
+<param name="Ближайшая дата">2025-05-30</param>
 <param name="Продолжительность" unit="месяц">4</param>
 <param name="План" order="1" unit="Модуль 1">Современные маркетинговые концепции</param>
 <param name="План" order="2" unit="Модуль 2">Ситуационный анализ и аудит бренда</param>
